@@ -18,7 +18,7 @@
   <p align="center">
     Application that makes predictions via linear regression based on a CSV file.
     <br />
-    <a href="https://github.com/lucaswmlima/javascript-food-site"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/lucaswmlima/python-linear-regressor"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     ·
@@ -60,9 +60,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://javascript-food-site.vercel.app)
-[![Product Name Screen Shot 2][product-screenshot2]](https://javascript-food-site.vercel.app)
-[![Product Name Screen Shot 3][product-screenshot3]](https://javascript-food-site.vercel.app)
+[![Product Name Screen Shot][product-screenshot]](https://python-linear-regressor.vercel.app)
+[![Product Name Screen Shot 2][product-screenshot2]](https://python-linear-regressor.vercel.app)
+[![Product Name Screen Shot 3][product-screenshot3]](https://python-linear-regressor.vercel.app)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -97,7 +97,7 @@ Downloading and installing Node.js and npm
 
 1. Clone the repo
    ```
-   git clone https://github.com/lucaswmlima/javascript-food-site.git
+   git clone https://github.com/lucaswmlima/python-linear-regressor.git
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -109,7 +109,7 @@ Downloading and installing Node.js and npm
 
 1. Navigate to the cloned directory
    ```
-   cd javascript-food-site
+   cd python-linear-regressor
    ```
 
 2. Start a local HTTP server using Node.js
@@ -134,7 +134,7 @@ Downloading and installing Node.js and npm
 - [x] Banner slider
 - [x] Responsiveness implementation
 
-See the [open issues](https://github.com/lucaswmlima/javascript-food-site/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/lucaswmlima/python-linear-regressor/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -176,16 +176,16 @@ Lucas William Martins Lima - lucaswilliamml@gmail.com - [LinkedIn][linkedin-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/lucaswmlima/javascript-food-site.svg?style=for-the-badge
-[contributors-url]: https://github.com/lucaswmlima/javascript-food-site/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/lucaswmlima/javascript-food-site.svg?style=for-the-badge
-[forks-url]: https://github.com/lucaswmlima/javascript-food-site/network/members
-[stars-shield]: https://img.shields.io/github/stars/lucaswmlima/javascript-food-site.svg?style=for-the-badge
-[stars-url]: https://github.com/lucaswmlima/javascript-food-site/stargazers
-[issues-shield]: https://img.shields.io/github/issues/lucaswmlima/javascript-food-site.svg?style=for-the-badge
-[issues-url]: https://github.com/lucaswmlima/javascript-food-site/issues
-[license-shield]: https://img.shields.io/github/license/lucaswmlima/javascript-food-site.svg?style=for-the-badge
-[license-url]: https://github.com/lucaswmlima/javascript-food-site/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/lucaswmlima/python-linear-regressor.svg?style=for-the-badge
+[contributors-url]: https://github.com/lucaswmlima/python-linear-regressor/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/lucaswmlima/python-linear-regressor.svg?style=for-the-badge
+[forks-url]: https://github.com/lucaswmlima/python-linear-regressor/network/members
+[stars-shield]: https://img.shields.io/github/stars/lucaswmlima/python-linear-regressor.svg?style=for-the-badge
+[stars-url]: https://github.com/lucaswmlima/python-linear-regressor/stargazers
+[issues-shield]: https://img.shields.io/github/issues/lucaswmlima/python-linear-regressor.svg?style=for-the-badge
+[issues-url]: https://github.com/lucaswmlima/python-linear-regressor/issues
+[license-shield]: https://img.shields.io/github/license/lucaswmlima/python-linear-regressor.svg?style=for-the-badge
+[license-url]: https://github.com/lucaswmlima/python-linear-regressor/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/https://www.linkedin.com/in/lucaswmlima/
 [portfolio-url]: https://portfolio-lucaswilliam.vercel.app/#projects
