@@ -89,11 +89,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-Downloading and installing Node.js and npm
-* npm
-  ```
-  npm install npm@latest -g
-  ```
+Download and install Python and dependencies
 
 ### Installation
 
@@ -104,25 +100,14 @@ Downloading and installing Node.js and npm
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-1. Navigate to the cloned directory
+1. Execute main.py
    ```
    cd python-linear-regressor
+   python main.py
    ```
-
-2. Start a local HTTP server using Node.js
-   ```
-   npx http-server
-   ```
-   Or install http-server globally and run:
-    ```
-    npm install -g http-server
-    http-server
-    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -131,10 +116,15 @@ Downloading and installing Node.js and npm
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Front-end
-- [x] Menu script implementation
-- [x] Banner slider
-- [x] Responsiveness implementation
+- [x] Load CSV script implementation
+- [x] Linear regression script's implementation
+- [x] Front End implementation
+- [x] Prediction Funcion implementation
+- [x] Added Help button
+- [x] Added drop boxes for columns selection
+- [x] Added drop box for separator selection
+- [x] Added correlation and determination coefficient label
+- [ ] Script for cleaning and processing data
 
 See the [open issues](https://github.com/lucaswmlima/python-linear-regressor/issues) for a full list of proposed features (and known issues).
 
