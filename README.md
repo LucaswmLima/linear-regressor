@@ -60,9 +60,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://python-linear-regressor.vercel.app)
-[![Product Name Screen Shot 2][product-screenshot2]](https://python-linear-regressor.vercel.app)
-[![Product Name Screen Shot 3][product-screenshot3]](https://python-linear-regressor.vercel.app)
+![Product Name Screen Shot][product-screenshot]
+![Product Name Screen Shot 2][product-screenshot2]
+![Product Name Screen Shot 3][product-screenshot3]
+
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
