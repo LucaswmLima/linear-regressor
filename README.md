@@ -16,7 +16,7 @@
 <h3 align="center">Linear Regressor</h3>
 
   <p align="center">
-    Application that makes predictions via linear regression based on a CSV file.
+    Application that performs linear regression based on CSV file. After loading the base and selecting columns, it is possible to check correlation factors, in addition to generating regression graphs, residuals and prediction for a specific number.
     <br />
     <a href="https://github.com/lucaswmlima/python-linear-regressor"><strong>Explore the docs »</strong></a>
     <br />
